@@ -14,7 +14,7 @@ Additionally, different majors have different course requirements and applicatio
 My idea of potentially improving the course is that it should implement more asynchronous resources such as pre-lecture videos and quiz-runthroughs to effectively help busy/struggling students personalize their studying practice.
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static\imgs\logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Code Analysis
 
@@ -31,19 +31,20 @@ Because I plan on creating visuals that directly compare trends among the most f
 Visuals that will be looked at are:
 1. Line plots for general trend of difficulty compared to either quiz preparation effectiveness or pre-lecture videos.
 
-<img src="/workspace/exercises/ex09/class_difficulty_quizeffect.png" alt= "Class Data of Quiz Prep Effectiveness vs. Difficulty. " width="500">
+<img src="static\imgs\class_difficulty_quizeffect.png" alt= "Class Data of Quiz Prep Effectiveness vs. Difficulty. " width="500">
 
-<img src="/workspace/exercises/ex09/class_difficulty_videos.png" alt= "Class Data of Pre-lecture Video Preference vs. Difficulty. " width="500">
+
+<img src="static\imgs\class_difficulty_videos.png" alt= "Class Data of Pre-lecture Video Preference vs. Difficulty. " width="500">
 
 2. A bar chart to compare average difficulty ratings of the class in the five most common majors and other majors.
 
-<img src="/workspace/exercises/ex09/major_comparison_bars.png" alt= "Average Difficulty Scores by Ranked Majors. " width="500">
+<img src="static\imgs\major_comparison_bars.png" alt= "Average Difficulty Scores by Ranked Majors. " width="500">
 
 3. Line plot comparing difficulty with pre-class videos or quiz preparation across the five most common majors.
 
-<img src="/workspace/exercises/ex09/difficulty_quiz_effectiveness_comparison.png" alt= "Quiz Prep Effectiveness vs. Difficulty for Top Five Majors. " width="500">
+<img src="static\imgs\difficulty_quiz_effectiveness_comparison.png" alt= "Quiz Prep Effectiveness vs. Difficulty for Top Five Majors. " width="500">
 
-<img src="/workspace/exercises/ex09/difficulty_video_preference_comparison.png" alt= "Pre-lecture Video Preference vs. Difficulty for Top Five Majors. " width="500">
+<img src="static\imgs\difficulty_video_preference_comparison.png" alt= "Pre-lecture Video Preference vs. Difficulty for Top Five Majors. " width="500">
 
 
 ## Conclusion
